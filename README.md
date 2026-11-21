@@ -147,5 +147,5 @@ Error status codes used: `400` validation error, `401` not logged in or invalid 
 
 ## Author
 
-Alzikrayat MERN Project — Advanced Web Technologies, Sudan University of Science and Technology.
+Alzikrayat MERN Project — Advanced Web Technologies, Sudan University of Science and Technology.    
 Submitted by: Anfal Abdelhamed Ali Ismaeil, Department: Software Engineering 
